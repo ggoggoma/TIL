@@ -15,8 +15,8 @@
 
 ### Configuration Management  
 * [2022.02.07 형상관리 정의 및 형상관리 도구](https://github.com/ggoggoma/TIL/blob/main/Configuration%20Management/Configuration%20Management_01.md)
-  *
-  *
+  -
+  -
 
 ### Database  
 
