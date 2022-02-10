@@ -1,4 +1,4 @@
-## 문제
+## 문제 [10718번: We love krill-Java]
 ![10718](https://user-images.githubusercontent.com/98507442/153430187-872723d0-3285-4906-ab64-e8c79bcc6ae0.png)
 
 ## 풀이
