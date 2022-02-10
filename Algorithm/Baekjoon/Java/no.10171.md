@@ -1,4 +1,4 @@
-## 문제
+## 문제 [10171번: 고양이-Java]
 ![10171](https://user-images.githubusercontent.com/98507442/153439862-59190b62-e53f-44db-8b77-3bb61db19dfe.png)
 
 ## 풀이
