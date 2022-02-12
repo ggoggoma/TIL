@@ -1,1 +1,19 @@
 # JavaScript
+
+# :page_facing_up:목차
+목차는 윤인성, 『혼자공부하는 자바스크립트』의 목차 순서를 참고하였다.
+* Chapter 01. Introduction(자바스크립트 개요 및 개발환경 설정)
+* Chapter 02. Data Type & Variable(자료와 변수)
+* Chapter 03. Conditional statements(조건문)
+* Chapter 04. Iteration statements(반복문)
+* Chapter 05. Function(함수)
+* Chapter 06. Object(객체)
+* Chapter 07. Document Objects Model(문서 객체 모델)
+* Chapter 08. Exception Handling(예외처리)
+* Chapter 09. Class(클래스)
+* Chapter 10. React Library(리액트 라이브러리 맛보기)
+
+# :ok_woman:참고자료:bow:
+
+## :book:책
+* 윤인성, 『혼자공부하는 자바스크립트』, 한빛미디어(2021)
