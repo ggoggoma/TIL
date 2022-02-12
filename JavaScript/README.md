@@ -17,3 +17,6 @@
 
 ## :book:책
 * 윤인성, 『혼자공부하는 자바스크립트』, 한빛미디어(2021)
+
+## :tv:강의
+* 혼자공부하는 자바스크립트, 유튜브 비디오, 윤인성, 2021.10.08 [혼자공부하는 자바스크립트](https://www.youtube.com/playlist?list=PLBXuLgInP-5kxpAKy2DNXoebCse2grHjl)
