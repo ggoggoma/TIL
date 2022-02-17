@@ -2,22 +2,22 @@
 
 <br/>
 
-# :page_facing_up:목차
+# :clipboard: 목차 
 목차는 윤인성, 『혼자공부하는 자바스크립트』의 목차 순서를 참고하였다.
 
 <br/>
 
-### Chapter 01. Introduction(자바스크립트 개요 및 개발환경 설정)
+### :page_facing_up: Chapter 01. Introduction(자바스크립트 개요 및 개발환경 설정)
   * [[책, 강의-혼자공부하는 자바스크립트. 01. Introduction]](https://github.com/ggoggoma/TIL/blob/main/JavaScript/Chapter%2001.%20Introduction/01.%20introduction.md)
-### Chapter 02. Data Type & Variable(자료와 변수)
-### Chapter 03. Conditional statements(조건문)
-### Chapter 04. Iteration statements(반복문)
-### Chapter 05. Function(함수)
-### Chapter 06. Object(객체)
-### Chapter 07. Document Objects Model(문서 객체 모델)
-### Chapter 08. Exception Handling(예외처리)
-### Chapter 09. Class(클래스)
-### Chapter 10. React Library(리액트 라이브러리 맛보기)
+### :page_facing_up: Chapter 02. Data Type & Variable(자료와 변수)
+### :page_facing_up: Chapter 03. Conditional statements(조건문)
+### :page_facing_up: Chapter 04. Iteration statements(반복문)
+### :page_facing_up: Chapter 05. Function(함수)
+### :page_facing_up: Chapter 06. Object(객체)
+### :page_facing_up: Chapter 07. Document Objects Model(문서 객체 모델)
+### :page_facing_up: Chapter 08. Exception Handling(예외처리)
+### :page_facing_up: Chapter 09. Class(클래스)
+### :page_facing_up: Chapter 10. React Library(리액트 라이브러리 맛보기)
 
 <br/>
 
