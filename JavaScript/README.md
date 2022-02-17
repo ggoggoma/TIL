@@ -4,6 +4,9 @@
 
 # :page_facing_up:목차
 목차는 윤인성, 『혼자공부하는 자바스크립트』의 목차 순서를 참고하였다.
+
+<br/>
+
 ### Chapter 01. Introduction(자바스크립트 개요 및 개발환경 설정)
   * [[책, 강의-혼자공부하는 자바스크립트. 01. Introduction]](https://github.com/ggoggoma/TIL/blob/main/JavaScript/Chapter%2001.%20Introduction/01.%20introduction.md)
 ### Chapter 02. Data Type & Variable(자료와 변수)
