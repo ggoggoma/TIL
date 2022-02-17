@@ -10,7 +10,7 @@
 ## :scroll: Part I. Database(데이터베이스 개념잡기)
   ### :page_facing_up: Chapter 01. Data, Database and DBMS(데이터베이스)
   ### :page_facing_up: Chapter 02. RDBMS(관계형 데이터베이스와 오라클 데이터베이스)
-  ### :page_facing_up: chapter 03. Install Oracle database(오라클 데이터베이스와 도구 프로그램 설치)
+  ### :page_facing_up: Chapter 03. Install Oracle database(오라클 데이터베이스와 도구 프로그램 설치)
 
 <br/>
 
