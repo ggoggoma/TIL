@@ -1,4 +1,30 @@
-# Part III. 데이터베이스 구축
+# :scroll: Part III. 데이터베이스 구축
+
+<br/>
+
+ ## :page_facing_up: Chapter 01. SQL application(SQL 응용)  
+  ### &nbsp; &nbsp; :memo: 01. Write procedural SQL(절차형 SQL 작성)
+  ### &nbsp; &nbsp; :memo: 02. Write application SQL(절차형 SQL 작성)
+ 
+ ## :page_facing_up: Chapter 02. SQL utilization(SQL 활용)
+  ### &nbsp; &nbsp; :memo: 01. Write basic SQL(기본 SQL 작성)
+  ### &nbsp; &nbsp; :memo: 02. Write advanced SQL(고급 SQL 작성) 
+  
+ ## :page_facing_up: Chapter 03. Logical database design(논리 데이터베이스 설계)
+   ### &nbsp; &nbsp; :memo: 01. Relational database model(관계형 데이터베이스 모델)
+   ### &nbsp; &nbsp; :memo: 02. Data modeling and design(데이터 모델링 및 설계)
+   
+ ## :page_facing_up: Chapter 04. Physical database design(물리 데이터베이스 설계)
+  ### &nbsp; &nbsp; :memo: 01. Investigation and Analysis of Physical Elements(물리요소 조사 분석)
+  ### &nbsp; &nbsp; :memo: 02. Database Physical property design(데이터베이스 물리속성 설계)   
+  ### &nbsp; &nbsp; :memo: 03. Physical database modelling(물리 데이터베이스 모델링)
+  ### &nbsp; &nbsp; :memo: 04. Database denormalization(데이터베이스 반정규화)
+  ### &nbsp; &nbsp; :memo: 05. Physical data model quality review(물리 데이터 모델 품질 검토)
+  
+ ## :page_facing_up: Chapter 05. Data conversion(데이터베이스 전환)
+  ### &nbsp; &nbsp; :memo: 01. Data conversion technology(데이터 전환 기술)
+  ### &nbsp; &nbsp; :memo: 02. Perform data conversion(데이터 전환 수행)   
+  ### &nbsp; &nbsp; :memo: 03. Data Cleansing(데이터 정제)
 
 <br/>
 
