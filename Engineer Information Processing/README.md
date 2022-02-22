@@ -9,7 +9,7 @@
 <br/>
 
 ## :scroll: Part I. Software design(소프트웨어 설계)
-  ### :page_facing_up: Chapter 01. confirmation requirements(요구사항 확인)
+  ### :page_facing_up: Chapter 01. Confirmation requirements(요구사항 확인)
   ### :page_facing_up: Chapter 02. Screen design(화면설계)
   ### :page_facing_up: Chapter 03. Application design(애플리케이션 설계)
   ### :page_facing_up: Chapter 04. Interface design(인터페이스 설계)
