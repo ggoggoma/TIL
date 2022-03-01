@@ -2,7 +2,7 @@
 
 <br/>
 
-## 1.  소프트웨어 생명 주기, SDLC(Software Development Life Cycle)
+## 1. 소프트웨어 생명 주기(Software Development Life Cycle)
 
 
 
