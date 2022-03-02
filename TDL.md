@@ -14,4 +14,7 @@ try/catch
 #### 2022.03.02
 Mybatis  
 query  
-SQL
+SQL  
+유효성 검사  
+
+
