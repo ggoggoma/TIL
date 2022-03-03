@@ -17,4 +17,8 @@ query
 SQL  
 유효성 검사  
 
+#### 2022.03.03  
+Mapper-parameterType, resultType  
+
+
 
