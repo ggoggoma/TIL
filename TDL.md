@@ -25,6 +25,8 @@ iBatis MyBatis 차이
 #### 2022.03.04  
 트랜잭션  
 callback 함수  
+dataset  
+
 
 
 
