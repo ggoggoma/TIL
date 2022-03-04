@@ -22,6 +22,9 @@ Mapper-parameterType, resultType
 NVL함수  
 iBatis MyBatis 차이  
 
+#### 2022.03.04  
+트랜잭션
+
 
 
 
