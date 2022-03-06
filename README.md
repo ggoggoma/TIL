@@ -37,7 +37,10 @@
 
 ### :file_folder: Database 
 
-### &emsp; :open_file_folder: Part I
+### :file_folder: Engineer Information Processing
+
+### &emsp; :open_file_folder: Part I 
+### &emsp;&emsp; :scroll: Chapter 01. 요구사항 확인
 
 ### &emsp; :open_file_folder: Part II
 
@@ -47,7 +50,6 @@
 
 ### &emsp; :open_file_folder: Part V
 
-### :file_folder: Engineer Information Processing
 
 ### :file_folder: Java  
 
