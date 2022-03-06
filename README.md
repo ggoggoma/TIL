@@ -27,24 +27,29 @@
 
 ## :memo: 분류 :memo:
 
+### :file_folder: Algorithm
 
-### Configuration Management  
+### :file_folder: Configuration Management  
 * [[2022.02.07] 형상관리 정의 및 형상관리 도구](https://github.com/ggoggoma/TIL/blob/main/Configuration%20Management/Configuration%20Management_01.md)
   * Git
   * SVN
     * [[2022.02.14] SVN 개념 및 용어](https://github.com/ggoggoma/TIL/blob/main/Configuration%20Management/SVN/01.what_is_SVN.md)
 
-### Database  
+### :file_folder: Database 
 
-### Java  
+### :file_folder: Engineer Information Processing
 
-### Python  
+### :file_folder: Java  
 
-### Spring  
+### :file_folder: JavaScript
 
-### Tools  
+### :file_folder: Python  
 
-### UI/UX  
+### :file_folder: Spring  
+
+### :file_folder: Tools  
+
+### :file_folder: UI/UX  
 
 <br/>
 
