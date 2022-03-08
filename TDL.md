@@ -31,6 +31,8 @@ dataset
 SQL-decode  
 오라클 함수
 
+#### 2022.03.08  
+오라클(Oracle) TRIM, LTRIM, RTRIM 함수
 
 
 
