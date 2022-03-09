@@ -32,8 +32,10 @@ SQL-decode
 오라클 함수
 
 #### 2022.03.08  
-오라클(Oracle) TRIM, LTRIM, RTRIM 함수
+오라클 TRIM, LTRIM, RTRIM 함수
 
+#### 2022.03.09  
+SQL- 뷰
 
 
 
