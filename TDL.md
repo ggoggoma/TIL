@@ -15,7 +15,7 @@ try/catch
 Mybatis  
 query  
 SQL  
-유효성 검사  
+
 
 #### 2022.03.03  
 Mapper-parameterType, resultType  
@@ -36,6 +36,9 @@ SQL-decode
 
 #### 2022.03.09  
 SQL- 뷰
+
+#### 2022.03.10
+유효성 검사  
 
 
 
