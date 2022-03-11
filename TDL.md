@@ -41,7 +41,8 @@ SQL- 뷰
 if(true)- 알아보기  
 
 #### 2022.03.11
-callback 함수 
+callback 함수  
+switch문
 
 
 
