@@ -42,8 +42,8 @@ if(true)- 알아보기
 
 #### 2022.03.11
 callback 함수  
-switch문
-
+switch문  
+function(e)
 
 
 
