@@ -24,9 +24,6 @@
 
 <br/>
 
-## :scroll: Part II
-
-<br/>
 
 ## :scroll: Part III
 
