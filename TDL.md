@@ -9,7 +9,6 @@ instanceof
 @ResponseBody  
 List<Map<>>  
 @SessionAttribute  
-try/catch
 
 #### 2022.03.02
 Mybatis  
